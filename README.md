@@ -1,6 +1,6 @@
 # Slack Card Workspace
 
-Fix this Slack card up!
+I was asked to Fix this Slack card up! Using the instruction below.
 
 1. The buttons are very blocky. Change the CSS so that they have rounded corners of 4px.
 2. There seems to be a typo in the top part of the card. I don't know what a 'Stufent' is, but that's probably not the word you want.
@@ -9,4 +9,4 @@ Fix this Slack card up!
 5. Change the cursor to be a hand pointer instead of an arrow over the buttons.
 6. Have other ideas for how to change the card? Try them out! This is your workspace!
 
-You can see a live preview of this project [here]()
+# You can see a live preview of the fixed card [Here!](https://mrnati.github.io/Slack-Card-Workspace/)
